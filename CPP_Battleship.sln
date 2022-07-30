@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Battleship", "CPP_Battleship\CPP_Battleship.vcxproj", "{F502EF92-A844-45F8-8C0A-1882878AF952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Debug|x64.ActiveCfg = Debug|x64
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Debug|x64.Build.0 = Debug|x64
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Debug|x86.ActiveCfg = Debug|Win32
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Debug|x86.Build.0 = Debug|Win32
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Release|x64.ActiveCfg = Release|x64
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Release|x64.Build.0 = Release|x64
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Release|x86.ActiveCfg = Release|Win32
+		{F502EF92-A844-45F8-8C0A-1882878AF952}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6FF752-949F-4FBF-B077-27EDE7CB4537}
+	EndGlobalSection
+EndGlobal
