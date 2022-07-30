@@ -1,2 +1,2 @@
 # CPP_Battleship
- C++ Battleship game using only the CLI
+ CLI based Battleship game using a pre-defined gameboard
